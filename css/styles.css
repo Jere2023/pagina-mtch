@@ -74,7 +74,7 @@ img {
 }**/
 .header {
     height: 65rem;
-    background-image: url(../img/banner.webp);
+    background-image: url(../img/banner.webp); /*Cambiar por avif desde el html*/
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -267,7 +267,7 @@ img {
 }
 /** Contacto **/
 .contacto-bg {
-    background-image: url(../img/contacto.jpg);
+    background-image: url(../img/contacto.jpg); /*revisar esto 10/02/2024*/
     height: 40rem;
     background-size: cover;
     background-repeat: no-repeat;
