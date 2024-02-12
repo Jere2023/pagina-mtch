@@ -268,8 +268,12 @@ img {
     background-size: cover;
     background-repeat: no-repeat;
 }
-
-/** Formulario **/
+.contacto ul {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+/** Formulario **
 .formulario {
     background-color: var(--blanco);
     margin: -5rem auto 0 auto;
@@ -291,4 +295,4 @@ img {
 }
 .campo__field--textarea {
     height: 20rem;
-}
+}*/
